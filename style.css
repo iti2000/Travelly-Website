@@ -83,7 +83,7 @@ nav ul{
 
 .hero{
     min-height: 90vh;
-    background: linear-gradient(rgba(0,0,0,0.9),transparent),url('/Project/img/mountain.jpg');
+    background: linear-gradient(rgba(0,0,0,0.9),transparent),url('/img/mountain.jpg');
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -103,7 +103,7 @@ nav ul{
 
 #locations{
     min-height: 100vh;
-    background:  linear-gradient(rgba(0,0,0,0.5),transparent),url("/Project/img/building.jpg");
+    background:  linear-gradient(rgba(0,0,0,0.5),transparent),url("/img/building.jpg");
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -241,7 +241,7 @@ line-height: 1.8;
 /*contact form*/
 #contact{
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.5),transparent),url("/Project/img/tobias-keller-73F4pKoUkM0-unsplash.jpg");
+    background: linear-gradient(rgba(0,0,0,0.5),transparent),url("/img/tobias-keller-73F4pKoUkM0-unsplash.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
